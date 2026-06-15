@@ -42,8 +42,6 @@ Currently expanding my expertise in Python, Scikit-learn, TensorFlow and real-wo
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
