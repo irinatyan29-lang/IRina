@@ -1,7 +1,7 @@
 <!-- Языковой переключатель / Language switcher -->
 <div align="center">
 
-[🇷🇺 Русский](#-о-себе) &nbsp;|&nbsp; [🇬🇧 English](#-about-me)
+[Русский](#-о-себе) &nbsp;|&nbsp; [English](#-about-me)
 
 </div>
 
@@ -19,67 +19,63 @@
 ```
 
 ### Irina Tyan · Junior Data Scientist & ML Engineer
-**📍 Ansan, South Korea**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/irinatyan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/irinatyan)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irina-tyan29?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ityan898@gmail.com)
 
 </div>
 
 ---
 
-## 🇷🇺 О себе
+## О себе
 
-Привет! Я Ирина — Junior Data Scientist и ML-DL Engineer с опытом в области машинного обучения, глубокого обучения и NLP. Самостоятельно изучаю Data Science и строю портфолио через реальные проекты.
+Привет! Меня зовут Ирина. Я начинающий специалист в области Data Science, увлечённый Machine Learning и Deep Learning. Сейчас я активно создаю своё портфолио, работая над практическими проектами, и постоянно развиваю навыки в сфере искусственного интеллекта и анализа данных.
 
-- 🔭 Сейчас работаю над **NER-пайплайном для мультиязычной PII-детекции** (fine-tuning XLM-RoBERTa)
-- 🌱 Углубляюсь в **NLP, работу с несбалансированными данными и time series forecasting**
-- 🇰🇷 Ищу возможности в Корее в сфере Data Science / ML Engineering
-- 🎓 Образование: Московский Технологический Институт, менеджмент
+- Высшее образование по направлению «Менеджмент» (Московский технологический институт)
+- Прошла 15-месячную программу обучения уровня Junior в VeraVla edu
+- В настоящее время продолжаю обучение на программе уровня Senior
+  
+---
+
+## About Me
+
+Hi! I'm Irina, a Junior Data Scientist passionate about Machine Learning and Deep Learning. I'm building my portfolio through hands-on projects and continuously expanding my skills in AI and data science.
+
+- Bachelor's degree in Management (Moscow Technological Institute)
+- Completed 15 months of Junior-level Data Science training at VeraVla edu
+- Currently continuing my studies in the Senior-level program
 
 ---
 
-## 🇬🇧 About Me
-
-Hi! I'm Irina — a Junior Data Scientist and ML-DL Engineer passionate about machine learning, deep learning, and NLP. I'm a self-taught practitioner building my portfolio through hands-on projects.
-
-- 🔭 Currently working on a **multilingual NER pipeline for PII detection** (fine-tuning XLM-RoBERTa)
-- 🌱 Deepening expertise in **NLP, imbalanced data handling, and time series forecasting**
-- 🇰🇷 Seeking opportunities in Korea in Data Science / ML Engineering
-- 🎓 Background in Management, Moscow Technological Institute
-
----
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 
 **ML / DL Frameworks**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-02B875?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02B875?style=flat-uasqre)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square)
 ![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-8B0000?style=flat-square)
 ![Linear Regression](https://img.shields.io/badge/Linear_Regression-4682B4?style=flat-square)
 ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-6A5ACD?style=flat-square)
-![Ensemble Methods](https://img.shields.io/badge/Ensemble_Methods-DAA520?style=flat-square)
+![Ensemble Methods](https://img.shields.io/badge/Ensemble_Methods-DAA520?style=flat-square)...
 
 **Data & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)...
 
 **Tools**
 
@@ -92,21 +88,21 @@ Hi! I'm Irina — a Junior Data Scientist and ML-DL Engineer passionate about ma
 
 ---
 
-## 📂 Projects / Проекты
+##  Projects / Проекты
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🌫 **[Air Pollution Forecasting](https://github.com/irinatyan29-lang/study_projects/tree/main/Beijing_2.5PM_project)** | PM2.5 time series forecasting with LSTM and Seq2Seq architectures | `TensorFlow` `Keras` `LSTM` |
-| 📧 **[Spam Classification · Enron](https://github.com/irinatyan29-lang/study_projects/tree/main/Ernon_email)** | Email spam detection: Naive Bayes, Logistic Regression, SVM, XGBoost | `scikit-learn` `NLP` `XGBoost` |
-| 🫁 **[Chest X-Ray Classification](https://github.com/irinatyan29-lang/study_projects/tree/main/X-rays)** | COVID / Pneumonia / Normal classification from medical images | `TensorFlow` `CNN` `Computer Vision` |
-| ❤️ **[Heart Disease Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/Heart_disease_project)** | Binary classification with ensemble methods and feature engineering | `scikit-learn` `EDA` |
-| 🖱 **[Facebook Ad Click Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/Facebook_Ads_2_project)** | CTR prediction with imbalanced data handling (SMOTE, ADASYN) | `XGBoost` `Imbalanced-learn` |
-| 🏦 **[Bank Customers Retirement](https://github.com/irinatyan29-lang/study_projects/tree/main/Bank_customers_retirement)** | Customer churn prediction using classification and ensemble methods | `scikit-learn` `Random Forest` `EDA` |
-| 🏠 **[House Price Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/House_price)** | Regression analysis for house price prediction with feature engineering | `scikit-learn` `Linear Regression` `EDA` |
+|  **[Air Pollution Forecasting](https://github.com/irinatyan29-lang/study_projects/tree/main/Beijing_2.5PM_project)** | PM2.5 time series forecasting with LSTM and Seq2Seq architectures | `TensorFlow` `Keras` `LSTM` |
+|  **[Spam Classification · Enron](https://github.com/irinatyan29-lang/study_projects/tree/main/Ernon_email)** | Email spam detection: Naive Bayes, Logistic Regression, SVM, XGBoost | `scikit-learn` `NLP` `XGBoost` |
+|  **[Chest X-Ray Classification](https://github.com/irinatyan29-lang/study_projects/tree/main/X-rays)** | COVID / Pneumonia / Normal classification from medical images | `TensorFlow` `CNN` `Computer Vision` |
+|  **[Heart Disease Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/Heart_disease_project)** | Binary classification with ensemble methods and feature engineering | `scikit-learn` `EDA` |
+|  **[Facebook Ad Click Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/Facebook_Ads_2_project)** | CTR prediction with imbalanced data handling (SMOTE, ADASYN) | `XGBoost` `Imbalanced-learn` |
+|  **[Bank Customers Retirement](https://github.com/irinatyan29-lang/study_projects/tree/main/Bank_customers_retirement)** | Customer churn prediction using classification and ensemble methods | `scikit-learn` `Random Forest` `EDA` |
+|  **[House Price Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/House_price)** | Regression analysis for house price prediction with feature engineering | `scikit-learn` `Linear Regression` `EDA` |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -120,8 +116,5 @@ Hi! I'm Irina — a Junior Data Scientist and ML-DL Engineer passionate about ma
 
 <div align="center">
 
-*"Data is not information, information is not knowledge, knowledge is not understanding."*
-
-💼 **Open to opportunities in Korea** · Available for Data Science & ML Engineering roles
 
 </div>
