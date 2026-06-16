@@ -82,7 +82,7 @@ Hi! I'm Irina, a Junior Data Scientist passionate about Machine Learning and Dee
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)...
 
 </div>
 
