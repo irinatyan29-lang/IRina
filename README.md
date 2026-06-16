@@ -19,24 +19,23 @@
 ```
 
 ### Irina Tyan · Junior Data Scientist & ML Engineer
-**📍 Ansan, South Korea**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/irinatyan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/irinatyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irina-tyan29?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ityan898@gmail.com)
+
 
 </div>
 
 ---
 
-## 🇷🇺 О себе
+## О себе
 
 Привет! Меня зовут Ирина, я начинающий Data Scientist, увлечённый машинным обучением и глубоким обучением. Я развиваю своё портфолио через практические проекты и постоянно расширяю свои знания в области искусственного интеллекта и анализа данных.
 
 
 ---
 
-## 🇬🇧 About Me
+##  About Me
 Hi! I'm Irina, a Junior Data Scientist passionate about Machine Learning and Deep Learning. I'm building my portfolio through hands-on projects and continuously expanding my skills in AI and data science.
 
 ---
@@ -105,9 +104,5 @@ Hi! I'm Irina, a Junior Data Scientist passionate about Machine Learning and Dee
 ---
 
 <div align="center">
-
-*"Data is not information, information is not knowledge, knowledge is not understanding."*
-
-💼 **Open to opportunities in Korea** · Available for Data Science & ML Engineering roles
 
 </div>
