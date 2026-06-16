@@ -79,15 +79,16 @@ Hi! I'm Irina, a Junior Data Scientist passionate about Machine Learning and Dee
 ---
 
 ## 📂 Projects / Проекты
-
+ 
 | Project | Description | Stack |
 |---------|-------------|-------|
-
-| 🌫 **[Air Pollution Forecasting](https://github.com/IrinaTyan)** | PM2.5 time series forecasting with LSTM and Seq2Seq architectures | `TensorFlow` `Keras` `LSTM` |
-| 📧 **[Spam Classification · Enron](https://github.com/IrinaTyan)** | Email spam detection: Naive Bayes, Logistic Regression, SVM, XGBoost | `scikit-learn` `NLP` `XGBoost` |
-| 🫁 **[Chest X-Ray Classification](https://github.com/IrinaTyan)** | COVID / Pneumonia / Normal classification from medical images | `TensorFlow` `CNN` `Computer Vision` |
-| ❤️ **[Heart Disease Prediction](https://github.com/IrinaTyan)** | Binary classification with ensemble methods and feature engineering | `scikit-learn` `EDA` |
-| 🖱 **[Facebook Ad Click Prediction](https://github.com/IrinaTyan)** | CTR prediction with imbalanced data handling (SMOTE, ADASYN) | `XGBoost` `Imbalanced-learn` |
+| 🌫 **[Air Pollution Forecasting](https://github.com/irinatyan29-lang/study_projects/tree/main/Beijing_2.5PM_project)** | PM2.5 time series forecasting with LSTM and Seq2Seq architectures | `TensorFlow` `Keras` `LSTM` |
+| 📧 **[Spam Classification · Enron](https://github.com/irinatyan29-lang/study_projects/tree/main/Ernon_email)** | Email spam detection: Naive Bayes, Logistic Regression, SVM, XGBoost | `scikit-learn` `NLP` `XGBoost` |
+| 🫁 **[Chest X-Ray Classification](https://github.com/irinatyan29-lang/study_projects/tree/main/X-rays)** | COVID / Pneumonia / Normal classification from medical images | `TensorFlow` `CNN` `Computer Vision` |
+| ❤️ **[Heart Disease Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/Heart_disease_project)** | Binary classification with ensemble methods and feature engineering | `scikit-learn` `EDA` |
+| 🖱 **[Facebook Ad Click Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/Facebook_Ads_2_project)** | CTR prediction with imbalanced data handling (SMOTE, ADASYN) | `XGBoost` `Imbalanced-learn` |
+| 🏦 **[Bank Customers Retirement](https://github.com/irinatyan29-lang/study_projects/tree/main/Bank_customers_retirement)** | Customer churn prediction using classification and ensemble methods | `scikit-learn` `Random Forest` `EDA` |
+| 🏠 **[House Price Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/House_price)** | Regression analysis for house price prediction with feature engineering | `scikit-learn` `Linear Regression` `EDA` |
 
 ---
 
