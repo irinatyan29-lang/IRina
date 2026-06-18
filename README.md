@@ -103,11 +103,6 @@ Junior Data Scientist with a foundation in machine learning, data preprocessing,
 |  **[House Price Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/House_price)** | Regression analysis for house price prediction with feature engineering | `scikit-learn` `Linear Regression` `EDA` |
 |  **[Human Resource Analytics](https://github.com/irinatyan29-lang/study_projects/tree/main/Human_resource)** | HR data analysis: employee churn prediction and workforce insights | `scikit-learn` `EDA` `Classification` |
 
----
-
-</div>
-
----
 
 <div align="center">
 
