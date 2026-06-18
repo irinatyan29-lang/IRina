@@ -99,6 +99,7 @@ Hi! I'm Irina, a Junior Data Scientist passionate about Machine Learning and Dee
 |  **[Facebook Ad Click Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/Facebook_Ads_2_project)** | CTR prediction with imbalanced data handling (SMOTE, ADASYN) | `XGBoost` `Imbalanced-learn` |
 |  **[Bank Customers Retirement](https://github.com/irinatyan29-lang/study_projects/tree/main/Bank_customers_retirement)** | Customer churn prediction using classification and ensemble methods | `scikit-learn` `Random Forest` `EDA` |
 |  **[House Price Prediction](https://github.com/irinatyan29-lang/study_projects/tree/main/House_price)** | Regression analysis for house price prediction with feature engineering | `scikit-learn` `Linear Regression` `EDA` |
+|  **[Human Resource Analytics](https://github.com/irinatyan29-lang/study_projects/tree/main/Human_resource)** | HR data analysis: employee churn prediction and workforce insights | `scikit-learn` `EDA` `Classification` |
 
 ---
 
